@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Some small game projects in [Godot] that I dabble in from time to time
 - I also 🎨draw and play 🎹piano
 
-### 👨‍💻 Languages I'm Familiar With
+### 📄 Languages I'm Familiar With
 (In no particular order)
 
 - Java
